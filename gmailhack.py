@@ -1,11 +1,11 @@
-#!/usr/bin/python
+#!/usr/bin/pyth
 '''create by VPP Hacker'''
 
 import smtplib
 from os import system
 
 def main():
-   print """
+   print ("
   ____                 _ _ _   _            _
  / ___|_ __ ___   __ _(_) | | | | __ _  ___| | __
 | |  _| '_ ` _ \ / _` | | | |_| |/ _` |/ __| |/ /
@@ -15,7 +15,7 @@ def main():
    print '               coded by VPP Hacker              '
    print '           Subscribe Our YouTube Channel         '
    print '================================================='
-
+")
 main()
 print '[1] start the attack'
 print '[2] exit'
